@@ -1,1 +1,1 @@
-# object_tracking_with_opencv_matchtemplate
+# Object tracking with Opencv, using cv2.matchTemplate()
